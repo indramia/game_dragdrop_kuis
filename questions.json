@@ -1,0 +1,15 @@
+{
+	"Questions": [
+		 ["Construct 3" , "Construct 3 berjalan di ..." , "browser,aplikasi,installer,portable" , "browser"],
+		 ["Psikotes" , "Motor : Roda" , "buku : bolpoin,rumah : pintu,buku : lembar,rumah : pondasi" , "rumah : pondasi"],
+		 ["Construct 3" , "Bar untuk mengatur ukuran obyek ..." , "properties,project,menu,layout" , "properties"],
+		 ["Psikotes" , "Emas : Tambang" , "permata : perhiasan,kayu : pohon,garam : logam,lidah : mulut" , "kayu : pohon"],
+		 ["Construct 3" , "Jika suatu kondisi dipenuhi, maka ..." , "perintah akan dijalankan,obyek akan berputar,game bisa dimainkan,animasi bisa berjalan" , "perintah akan dijalankan"],
+		 ["Psikotes" , "Jika Bandung adalah kucing dan Surabaya adalah kambing maka Jakarta adalah ..." , "kuda,ayam,merak,burung" , "kuda"],
+		 ["Construct 3" , "Layout adalah ..." , "lembar kerja,script editor,pengaturan obyek,bagian dari menu" , "lembar kerja"],
+		 ["Psikotes" , "192  192  96  32" , "8,6,4,2" , "8"],
+		 ["Construct 3" , "Events adalah ..." , "logika pada project,obyek pada project,game pada project,animasi pada project" , "logika pada project"],
+		 ["Psikotes" , "Bilangan mana yang terbesar ?" , "1/4 dari 236,1/16 dari1028,1/13 dari 741,1/11 dari 723" , "1/11 dari 723"]
+	]
+	
+}
